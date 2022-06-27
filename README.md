@@ -27,6 +27,8 @@ of 7 days (all without the needs to add credit card information).
 So is a very starting point to play with a very comprehensive logging
 platform.
 
+![Example of log results on Humio](./images/HumioLogResults.PNG)
+
 ### Registration
 
 The registration process require few information and in a couple
